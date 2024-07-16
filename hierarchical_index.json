@@ -1,0 +1,253 @@
+{
+  "node_id": 0,
+  "parent_id": null,
+  "node_type": "root",
+  "content": "General Navigation",
+  "page_start": null,
+  "page_end": null,
+  "children": [
+    {
+      "node_id": 1,
+      "parent_id": 0,
+      "node_type": "chapter",
+      "content": "Chapter 1: Form of the Earth",
+      "page_start": 1,
+      "page_end": 10,
+      "children": []
+    },
+    {
+      "node_id": 11,
+      "parent_id": 0,
+      "node_type": "chapter",
+      "content": "Chapter 2: Time",
+      "page_start": 11,
+      "page_end": 28,
+      "children": []
+    },
+    {
+      "node_id": 29,
+      "parent_id": 0,
+      "node_type": "chapter",
+      "content": "Chapter 3: Direction",
+      "page_start": 29,
+      "page_end": 52,
+      "children": []
+    },
+    {
+      "node_id": 53,
+      "parent_id": 0,
+      "node_type": "chapter",
+      "content": "Chapter 4: Speed, Distance and Time",
+      "page_start": 53,
+      "page_end": 66,
+      "children": []
+    },
+    {
+      "node_id": 67,
+      "parent_id": 0,
+      "node_type": "chapter",
+      "content": "Chapter 5: Aeronautical Charts and Chart-Making",
+      "page_start": 67,
+      "page_end": 80,
+      "children": []
+    },
+    {
+      "node_id": 81,
+      "parent_id": 0,
+      "node_type": "chapter",
+      "content": "Chapter 6: Features on Aeronautical Charts",
+      "page_start": 81,
+      "page_end": 92,
+      "children": []
+    },
+    {
+      "node_id": 93,
+      "parent_id": 0,
+      "node_type": "chapter",
+      "content": "Chapter 7: Measuring Track Angle and Track Distance",
+      "page_start": 93,
+      "page_end": 102,
+      "children": []
+    },
+    {
+      "node_id": 103,
+      "parent_id": 0,
+      "node_type": "chapter",
+      "content": "Chapter 8: Map Reading",
+      "page_start": 103,
+      "page_end": 122,
+      "children": []
+    },
+    {
+      "node_id": 123,
+      "parent_id": 0,
+      "node_type": "chapter",
+      "content": "Chapter 9: Principles of Dead Reckoning Air Navigation",
+      "page_start": 123,
+      "page_end": 148,
+      "children": []
+    },
+    {
+      "node_id": 149,
+      "parent_id": 0,
+      "node_type": "chapter",
+      "content": "Chapter 10: Altimeter Settings",
+      "page_start": 149,
+      "page_end": 172,
+      "children": []
+    },
+    {
+      "node_id": 173,
+      "parent_id": 0,
+      "node_type": "chapter",
+      "content": "Chapter 11: The Navigation Computer",
+      "page_start": 173,
+      "page_end": 204,
+      "children": []
+    },
+    {
+      "node_id": 205,
+      "parent_id": 0,
+      "node_type": "chapter",
+      "content": "Chapter 12: Flight Planning",
+      "page_start": 205,
+      "page_end": 232,
+      "children": []
+    },
+    {
+      "node_id": 233,
+      "parent_id": 0,
+      "node_type": "chapter",
+      "content": "Chapter 13: Practical Navigation",
+      "page_start": 233,
+      "page_end": 252,
+      "children": []
+    },
+    {
+      "node_id": 253,
+      "parent_id": 0,
+      "node_type": "chapter",
+      "content": "Chapter 14: The Lost Procedure",
+      "page_start": 253,
+      "page_end": 266,
+      "children": []
+    },
+    {
+      "node_id": 267,
+      "parent_id": 0,
+      "node_type": "chapter",
+      "content": "Chapter 15: VHF Direction Finding (VDF)",
+      "page_start": 267,
+      "page_end": 278,
+      "children": []
+    },
+    {
+      "node_id": 279,
+      "parent_id": 0,
+      "node_type": "chapter",
+      "content": "Chapter 16: Automatic Direction Finding (ADF)",
+      "page_start": 279,
+      "page_end": 302,
+      "children": []
+    },
+    {
+      "node_id": 303,
+      "parent_id": 0,
+      "node_type": "chapter",
+      "content": "Chapter 17: VHF Omni-Directional Range (VOR)",
+      "page_start": 303,
+      "page_end": 330,
+      "children": []
+    },
+    {
+      "node_id": 331,
+      "parent_id": 0,
+      "node_type": "chapter",
+      "content": "Chapter 18: Distance Measuring Equipment (DME)",
+      "page_start": 331,
+      "page_end": 338,
+      "children": []
+    },
+    {
+      "node_id": 339,
+      "parent_id": 0,
+      "node_type": "chapter",
+      "content": "Chapter 19: Ground Radar",
+      "page_start": 339,
+      "page_end": 352,
+      "children": []
+    },
+    {
+      "node_id": 353,
+      "parent_id": 0,
+      "node_type": "chapter",
+      "content": "Chapter 20: Secondary Surveillance Radar (SSR)",
+      "page_start": 353,
+      "page_end": 362,
+      "children": []
+    },
+    {
+      "node_id": 363,
+      "parent_id": 0,
+      "node_type": "chapter",
+      "content": "Chapter 21: Global Positioning System (GPS)",
+      "page_start": 363,
+      "page_end": 370,
+      "children": []
+    },
+    {
+      "node_id": 371,
+      "parent_id": 0,
+      "node_type": "appendix",
+      "content": "Appendix A: The Flight Information Service (FIS)",
+      "page_start": 371,
+      "page_end": 378,
+      "children": []
+    },
+    {
+      "node_id": 379,
+      "parent_id": 0,
+      "node_type": "appendix",
+      "content": "Appendix 1: Practical Navigation Test Route",
+      "page_start": 379,
+      "page_end": 382,
+      "children": []
+    },
+    {
+      "node_id": 383,
+      "parent_id": 0,
+      "node_type": "appendix",
+      "content": "Appendix 2: Solutions for Questions on Practical Navigation",
+      "page_start": 383,
+      "page_end": 386,
+      "children": []
+    },
+    {
+      "node_id": 387,
+      "parent_id": 0,
+      "node_type": "appendix",
+      "content": "Appendix 3: Aerodrome Plans",
+      "page_start": 387,
+      "page_end": 390,
+      "children": []
+    },
+    {
+      "node_id": 391,
+      "parent_id": 0,
+      "node_type": "syllabus",
+      "content": "Navigation and Radio Aids Syllabus",
+      "page_start": 391,
+      "page_end": 394,
+      "children": []
+    },
+    {
+      "node_id": 395,
+      "parent_id": 0,
+      "node_type": "answers",
+      "content": "Answers to Navigation and Radio Aids Questions",
+      "page_start": 395,
+      "page_end": null,
+      "children": []
+    }
+  ]
+}
