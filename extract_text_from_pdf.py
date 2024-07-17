@@ -46,16 +46,19 @@ def save_text_to_file(text, file_path):
 
 # Example usage:
 if __name__ == "__main__":
-    pdf_file_path = r'C:\Users\uhars\Downloads\PPL_2ND_EDITION_Navigation_Oxford_Aviati.pdf'
-    extracted_text = extract_text_from_pdf(pdf_file_path)
+    pdf_files = [
+        r'C:\Users\uhars\Downloads\PPL_2ND_EDITION_Navigation_Oxford_Aviati.pdf',
+        r'C:\Users\uhars\Downloads\aerodynamics.pdf',
+        r'C:\Users\uhars\Downloads\FAA-H-8083-28_Order_8083.28.pdf'
+    ]
     
-    # Clean the extracted text
-    cleaned_text = clean_text(extracted_text)
-    
-    # Save cleaned text to a file in the repository
-    save_file_path = 'cleaned_text.txt'  # Adjust the file path as needed
-    save_text_to_file(cleaned_text, save_file_path)
-    
-    # Print cleaned text (for verification)
-    print("Cleaned Text:")
-    print(cleaned_text)
+    for i, pdf_file_path in enumerate(pdf_files):
+        extracted_text = extract_text_from_pdf(pdf_file_path)
+        
+        # Clean the extracted text
+        cleaned_text = clean_text(extracted_text)
+        
+        # Save cleaned text to a file in the repository
+        save_file_path = f'cleaned_text_{i+1}.txt'  # Adjust the file path as needed
+        save_text_to_file(cleaned_text, save_file_path)
+
